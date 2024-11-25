@@ -24,7 +24,7 @@ Siber güvenlik, sistemleri, ağları, programları ve verileri dijital tehditle
 ### CIA Üçgeni
 Aşağıda, siber güvenlik stratejilerinin temelini oluşturan **CIA Üçgeni** gösterilmektedir:
 
-![CIA Üçgeni](confidentiality-integrity-availability-triangle.png)
+![CIA Üçgeni](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/66a372b4a3d814c4fc284041_63fdd44daa2d3e1f527b40e7_CIA%2520Triad.jpeg)
 
 ---
 
@@ -89,9 +89,11 @@ Siber güvenliği etkin bir şekilde sağlamak için çeşitli stratejiler uygul
 
 Aşağıdaki bağlantılardan daha fazla bilgi ve görsele ulaşabilirsiniz:
 
-1. ![CIA Üçgeni - Detaylı Görsel](https://upload.wikimedia.org/wikipedia/commons/2/28/CIA-Triad.png)  
-2. ![Siber Güvenlik Farkındalık Posteri](https://www.cisa.gov/sites/default/files/publications/SecurityAwarenessMonth_CyberEssentials_11012021.jpg)  
-3. [NCSC Siber Güvenlik Rehberi](https://www.ncsc.gov.uk/)
+![CIA Üçgeni - Detaylı Görsel](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/5/9/597a98d99dee1d1ad6d42182caa790dac2103c51848487a1fec6cfe7b130268b/confidentiality-integrity-availability-slide1.png)
+---
+![Siber Güvenlik Farkındalık Posteri](https://www.dsci.in/files/content/page/2023/csam21-banner.jpg)
+   ---
+[NCSC Siber Güvenlik Rehberi](https://www.ncsc.gov.uk/)
 
 ---
 
