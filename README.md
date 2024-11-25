@@ -51,16 +51,7 @@ Eğitim sürecini daha etkili hale getirmek için izlediğim adımlar:
 ## 🎯 Microsoft ile İlgili Mesajım
 
 Microsoft’un **Learn** platformu, teknoloji dünyasına açılan kapılardan biri ve bu proje tamamen bu eğitime dayalı bir yolculuğun ürünü.  
-[@Microsoft](https://github.com/microsoft), sunduğunuz eğitim ve araçlar için teşekkürler! Bu projeyi geliştirirken sizin kaynaklarınızdan büyük ölçüde ilham aldım.
-
----
-
-## 🎨 Görseller
-
-> 📸 Aşağıda eğitim sürecinden elde edilen birkaç ekran görüntüsü ve proje sonuçlarına ait görseller bulunmaktadır:
-
-![Microsoft CyberSecurity Eğitim Yolculuğu](https://via.placeholder.com/800x400.png?text=Microsoft+CyberSecurity+Path+Preview)  
-
+[@Microsoft](https://github.com/microsoft), sunduğunuz eğitim ve araçlar için teşekkürler! Bu projeyi geliştirirken sizin kaynaklarınızdan büyük ölçüde ilham aldım.  
 ---
 
 ## 📝 Lisans
@@ -73,7 +64,7 @@ Bu içerik Microsoft’un haklarına saygı gösterilerek hazırlanmıştır.
 ## 📢 Bana Ulaşın!
 
 Eğer proje ile ilgili önerileriniz veya sorularınız varsa bana şu kanallardan ulaşabilirsiniz:  
-📧 **E-posta**: your_email@example.com  
+📧 **E-posta**: piinartp@gmail.com 
 💼 **LinkedIn**: [Profilim](https://www.linkedin.com/in/piinartp)
 
 ---
